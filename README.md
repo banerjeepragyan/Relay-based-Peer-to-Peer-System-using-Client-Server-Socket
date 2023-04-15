@@ -30,7 +30,7 @@ Prototypes for Client and Server
   - `c++ -o client client.c`
   - `c++ -o node node.c`
 
-(the nodes can be in other directories as well, it doesn't matter.)
+  (the nodes can be in other directories as well, it doesn't matter.)
 - run 
   - `/server`
   - `/node`
@@ -38,6 +38,6 @@ Prototypes for Client and Server
   - `/node`
   - `/client`
 
-server address is localhost here
+  server address is localhost here
 
 The requested file should be with a node. The client will ask for a file name and return the file if it is found with any node.
